@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+venv
+
+# Data
+*.csv
+*.h5
+*.npz
+
+# Models
+*.pb
+*.hdf5
+*.h5
+*.pth
+
+# Logs and metrics
+*.log
+*.metrics
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
